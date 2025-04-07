@@ -18,7 +18,7 @@
 
 ### Links
 
-- Solution URL: [Final Snake Game]
+URL: [Snake Game] (https://github.com/anwin890/Projects/tree/main/Snake%20Game)
 ## My process
 
 ### Built with
